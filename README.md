@@ -1,2 +1,15 @@
 # Artifact
-Clone repository from my other account.
+
+## Description
+
+Artifact is a Fabric based mod for Minecraft 1.19 that add a few artifact that give you potion effect when you have it in your inventory.
+
+## Author
+
+Skylined
+
+## Contact
+
+### Discord :
+
+Skylined#3826
