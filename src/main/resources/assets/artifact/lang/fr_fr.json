@@ -1,0 +1,26 @@
+{
+  "item.artifact.speed_artifact": "Artéfact de vitesse",
+  "item.artifact.resistance_artifact": "Artéfact de résistance",
+  "item.artifact.strength_artifact": "Artéfact de force",
+  "item.artifact.random_artifact": "Artéfact Aléatoire",
+  "itemGroup.artifact.artifact_group": "Artéfact",
+  "block.artifact.artifact_part_ore": "Minerai d'artéfact",
+  "item.artifact.artifact_part": "Morceau d'artéfact",
+  "item.artifact.haste_artifact": "Artéfact de célérité",
+  "item.artifact.fire_resistance_artifact": "Artéfact de résistance au feu",
+  "item.artifact.water_breathing_artifact": "Artéfact d'apnée",
+  "block.artifact.tier_two_ore": "Minerai d'artéfact tier deux",
+  "block.artifact.tier_three_ore": "Minerai d'artéfact tier trois",
+  "item.artifact.tier_two_part": "Morceau d'artéfact tier deux",
+  "item.artifact.tier_three_part": "Morceau d'artéfact tier trois",
+  "item.artifact.speed_artifact_tier_two": "Artéfact de vitesse tier deux",
+  "item.artifact.speed_artifact_tier_three": "Artéfact de vitesse tier trois",
+  "item.artifact.strength_artifact_tier_two": "Artéfact de force tier deux",
+  "item.artifact.strength_artifact_tier_three": "Artéfact de force tier trois",
+  "item.artifact.resistance_artifact_tier_two": "Artéfact de resistance tier deux",
+  "item.artifact.resistance_artifact_tier_three": "Artéfact de resistance tier trois",
+  "item.artifact.haste_artifact_tier_two": "Artéfact de célérité tier deux",
+  "item.artifact.haste_artifact_tier_three": "Artéfact de célérité tier trois"
+
+
+}
